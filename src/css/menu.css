@@ -1,0 +1,36 @@
+
+*{
+    margin: 0px; 
+    padding: 0px
+ }
+
+ 
+ .menu {
+    width: 5%;
+    background: white;
+    width:  10px;
+    margin: 10px;
+    color: white
+}
+
+ .menu li{
+     list-style: none;
+ }
+
+ .category h3{
+     font-size: 12px;
+     line-height: 34px;
+     padding:  0 10px;
+     margin: 0px;
+     background: black 
+ }
+
+ .category ul li a{
+
+    color: black;
+    text-decoration: none;
+    font-size: 11px;
+    line-height: 27px;
+    display: block;
+    padding: 0 15px;
+ }
